@@ -1,0 +1,19 @@
+{
+	 "students" : 
+	 	[
+	 		{
+				"team_id" : "lukas-rambold",
+				"class_year" : "2016",
+				"class_no_in_year" : "1",
+				"taskforce" : "Communications",
+				"email" : "lukas.rambold@cdtm.de",
+				"greeter": "Hi I'm sometimes a Student of Media and Informatics, sometimes web developer, sometimes 3D-PrinterGuy and in the time in between wanna-be-singer-song-writer.",
+				"studies_content": "Media Informatics",
+				"abroad_statement": "I've been to China this year, learning about the Chinese culture and trying to learn Chinese. We stayed in a dorm in Qingdao, which is - similar to Munich - the beer capital of its country.",
+				"work_statement": "Two months internship at Bayerischer Rundfunk, One semester at M94.5 as radio reporter, One year of being Werksstudent at MobiMedia AG, One year of being the guy behind the Website of Media Informatics at LMU.",
+				"enterpreneurial_idea": "I once had an idea about a supermarket where the goods aren't prepackaged but you fill the e.g. 1kg of noodles from a big dispenser into a re-usable, internet-connected container given to you by the store. This container can now track your noodle supply."
+
+			}
+
+	 	]
+}

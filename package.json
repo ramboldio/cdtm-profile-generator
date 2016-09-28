@@ -1,0 +1,19 @@
+{
+  "name": "cdtm-profile-generator",
+  "version": "1.0.0",
+  "description": "Package to generate Profiles for WordPress Installation on cdtm.de",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Lukas Rambold",
+  "license": "MIT",
+  "devDependencies": {
+    "csv-parse": "^1.1.7",
+    "mustache": "^2.2.1"
+  },
+  "dependencies": {
+    "mysql": "^2.11.1"
+  }
+}
